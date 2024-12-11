@@ -1,7 +1,7 @@
 // Class: BlackjackRunner
 // Purpose: Runner class used to initiate and play blackjack
 // @author TAS
-// @version November 2021
+// @version November 2021 updated 2024
 
 import java.util.Scanner;
 
