@@ -1,4 +1,4 @@
-# Project Title
+# Blackjack Game
 
 This repository contains a console-based implementation of the classic card game Blackjack written in Java. The project includes functionality for simulating a two-player Blackjack game (dealer vs player), complete with game rules, card management, and score tracking.
 
